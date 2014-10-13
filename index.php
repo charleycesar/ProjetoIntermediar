@@ -273,7 +273,7 @@
 						Nosso grupo de trabalho reune-se semanalmente, ocasião em que os casos atendidos por cada profissional recebem as contribuições dos demais profissionais.
 						</p>
 					</header>
-					<a href="Intermediar.jpg" target="_blank" class="button big scrolly">Veja Nosso Fouder</a>
+					<a href="Intermediar.jpg" target="_blank" class="button big scrolly">Veja Nosso Folder</a>
 
 				</article>
 			</div>
