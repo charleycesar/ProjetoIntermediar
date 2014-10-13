@@ -175,7 +175,7 @@
 						<div class="row">
 							<div class="4u">
 								<article class="box style2">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Delayne.jpg" alt="" /></a>
 									<h3><a href="#">Delayne Cunha</a></h3>
 									<p align="justify">estudante de pedagogia, fazendo mediação no colégio Oficina do Fazer-CEPAENI – RJ.</p>
 								</article>
@@ -189,7 +189,7 @@
 							</div>
 							<div class="4u">
 								<article class="box style2">
-									<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Elisabete.jpg" alt="" /></a>
 									<h3><a href="#">Elisabete Marques</a></h3>
 									<p align="justify">Professora, Psicopedagoga, fazendo mediação na creche Talento em Laranjeiras.</p>
 								</article>
@@ -205,14 +205,14 @@
 							</div>
 							<div class="4u">
 								<article class="box style2">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/tama.jpg" alt="" /></a>
 									<h3><a href="#">Tarna Morena</a></h3>
 									<p align="justify">Professora de História e Inglês e Psicopedagoga, fazendo mediação no Colégio Cepaeni Oficina do Fazer em Nova Iguaçu.</p>
 								</article>
 							</div>
 							<div class="4u">
 								<article class="box style2">
-									<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Juliana.jpg" alt="" /></a>
 									<h3><a href="#">Juliana Regina</a></h3>
 									<p align="justify">Estudante de psicologia, UFF, mediação colégio Curiosidade.</p>
 								</article>
